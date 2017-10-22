@@ -1,6 +1,17 @@
-# Angular starter app #
+# My fall'17 training #
 
-Created completely with the help of
-[angular-cli](https://github.com/angular/angular-cli).
+Oct, 22
+#Snapshot 1
+- "main" page was added.
+- "home", "news", "about" empty pages were added.
+- large header & small header & its smooth transition were added.
+- "preload" page was added.
+- "not found" page was added.
+- scrollbar was redesigned.
+- spinner was added.
+- "back to top" element & its smooth transition were added.
+- "back to home" element was added.
+- favicon was added.
 
-For more info check [their wiki](https://github.com/angular/angular-cli/wiki).
+Sep, 22
+Just started.

@@ -1,0 +1,14 @@
+.header-img {
+    min-width: 1000px;
+    width: 100%;
+}
+
+.header-img-small {
+    min-width: 1000px;
+    width: 100%;
+    display: none;
+    position: fixed; 
+    top: 0;
+    z-index: 9999;
+    opacity: 0;
+}

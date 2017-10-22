@@ -1,0 +1,14 @@
+<div class="preload-wrapper" *ngIf="preloading">
+    <!-- <div class="preload-bg"> -->
+        <p class="preload-text"> Loading... </p>
+        <spinner *ngIf="preloading"></spinner>
+    <!-- </div> -->
+</div>
+<header (onChanged)="onChanged($event)"></header>
+<navbar [heightLarge]=[headerHeight.heightLarge] [heightSmall]=[headerHeight.heightSmall]></navbar>
+<div class="main-wrapper" *ngIf="loaded">
+    <div class="main-container">
+        <router-outlet></router-outlet>
+    </div>
+</div>
+<back-to-top></back-to-top>

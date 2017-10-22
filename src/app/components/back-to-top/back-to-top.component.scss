@@ -1,0 +1,20 @@
+.back-to-top {
+    background: url("../../../assets/back_to_top.png") no-repeat;
+    background-size: contain;
+    height: 8vh;
+    width: 8vh;
+    position: fixed;
+    z-index: 9999;
+    display: none;
+    opacity: 0;
+    cursor: pointer;
+    outline: none;
+    right: 0.5%;
+    bottom: 0.3%;
+    transition-duration: 0.5s;
+    &:hover {
+        background: url("../../../assets/back_to_top.png") no-repeat;
+        background-size: contain;
+        opacity: 1 !important;
+    }
+}
