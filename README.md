@@ -1,7 +1,7 @@
-# My fall'17 training #
+## My fall'17 training ##
 
-Oct, 22
-#Snapshot 1
+# Oct, 22 #
+# Snapshot 1 #
 - "main" page was added.
 - "home", "news", "about" empty pages were added.
 - large header & small header & its smooth transition were added.
@@ -13,5 +13,5 @@ Oct, 22
 - "back to home" element was added.
 - favicon was added.
 
-Sep, 22
+# Sep, 22 #
 Just started.
